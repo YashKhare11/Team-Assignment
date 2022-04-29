@@ -2,13 +2,23 @@ Team Name  : GIT-ASSIGNMENT
 
 TEAM MEMBERS:
 
-SK Rahmatullah
+Student 1 : Sushant Kumar
 
-Sushant Kumar
+Student 2 : Kirti Gupta
 
-Ghanisht Khurana
+Student 3 : Yash Khare
 
-Yash Khare
+Student 4 : Ghanisht Khurana
 
-Kirti Gupta
+Student 5 : SK Rahmatullah
+
+
+
+
+
+
+
+
+
+
 
